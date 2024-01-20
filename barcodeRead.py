@@ -9,7 +9,7 @@ from datetime import datetime
 import pygame
 from PIL import Image, ImageTk 
 
-mysqllog = ["192.168.1.113", "admin", "Actimel1234", "inventory_db"]
+mysqllog = ["localhost", "user", "password", "databasename"]
 
 def scan_barcode():
     delay = 500

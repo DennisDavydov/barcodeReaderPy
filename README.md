@@ -3,6 +3,8 @@
 
 This project is a barcode reader application that connects to a MySQL database to store product information. It uses OpenCV for barcode scanning, tkinter for the graphical user interface, and pygame for sound effects. The project allows you to scan barcodes, view product details, and add or remove products from the database.
 
+This project is primarily made to work with my - [InventoryServer](https://github.com/DennisDavydov/homeinventory), but is useable as a standalone application too.
+
 
 ## Features
 
@@ -70,4 +72,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Author
 
-- [Your Name](https://github.com/DennisDavydov)
+- [DennisDavydov](https://github.com/DennisDavydov)

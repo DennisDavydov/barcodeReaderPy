@@ -1,12 +1,8 @@
-Certainly! Here's a README file for your GitHub repository for the barcode reader project:
-
----
 
 # Barcode Reader Project
 
 This project is a barcode reader application that connects to a MySQL database to store product information. It uses OpenCV for barcode scanning, tkinter for the graphical user interface, and pygame for sound effects. The project allows you to scan barcodes, view product details, and add or remove products from the database.
 
-![Barcode Reader](images/barcode-reader-screenshot.png)
 
 ## Features
 
@@ -64,10 +60,6 @@ This project is a barcode reader application that connects to a MySQL database t
 - `select_data`: Retrieves product details from the database based on the barcode.
 - `remove_product`: Removes a product from the database based on the barcode and, optionally, the expiration date.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This project uses various open-source libraries and tools, including OpenCV, PyZbar, Tkinter, and more.
@@ -78,12 +70,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
-
-## Contact
-
-If you have any questions or suggestions, please feel free to [contact us](mailto:youremail@example.com).
-
----
-
-Replace "yourusername" with your actual GitHub username and update the contact information as needed. Additionally, you can include images or screenshots of your project in the repository and refer to them in the README for better visualization.
+- [Your Name](https://github.com/DennisDavydov)
